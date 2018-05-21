@@ -1,0 +1,4 @@
+.DS_Store
+chromedriver
+copy_html_to_pi.py
+wcs_get.py
